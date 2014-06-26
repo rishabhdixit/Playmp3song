@@ -1,0 +1,11 @@
+{
+    "name": "Mp3-Player",
+    "version": "0.1.0",
+    "main":"playmp3.js",
+    "bin":{"player":"./playmp3.js"},
+       "dependencies": {
+        "lame": "1.1.0",
+        "speaker": "0.0.10"
+    }
+
+}
